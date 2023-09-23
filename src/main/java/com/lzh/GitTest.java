@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hot-fix test!!!");
         System.out.println("Master Test!!!");
         System.out.println("Push Test!!!");
+        System.out.println("Pull Test!!!");
     }
 }
